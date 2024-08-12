@@ -19,7 +19,7 @@
 #当前行高亮
 
 
-#ctrl+shift+加号放大，可以ctrl+鼠标滚动放大，ctrl+shift+减号缩小，可以ctrl+鼠标滚动缩小
+#ctrl+shift+加号放大,也可以ctrl+鼠标滚动放大，ctrl+shift+减号缩小,也可以ctrl+鼠标滚动缩小
 
 
 #当前行的值位置显示
