@@ -1,4 +1,4 @@
-# 一个平平无奇基于QT6开发的小型记事本
+# 一个平平无奇基于QT6开发的小型(指功能)记事本
 
 
 #跟着b站教学视频做的，做了一点小改动原视频链接https://www.bilibili.com/video/BV1GW42197ff?p=70&spm_id_from=pageDriver&vd_source=a1c3e37616f65328c2f444469c60b361
